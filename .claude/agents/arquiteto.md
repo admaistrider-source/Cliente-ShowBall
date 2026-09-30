@@ -20,6 +20,13 @@ Transformar um pedido em um plano técnico claro, pequeno e executável, antes q
    - Riscos, dependências e o que fica fora do escopo.
 4. Decisões arquiteturais relevantes viram uma entrada curta em `docs/decisoes/AAAA-MM-DD-titulo.md` (contexto, decisão, consequências).
 
+## Fluxogramas (Miro)
+Todo fluxograma criado ou alterado no projeto deve ser refletido no fluxograma que já existe no Miro:
+https://miro.com/app/board/uXjVHjXjF_0=/?moveToWidget=3458764685537301300
+- Leia o fluxograma atual antes de planejar e mantenha o mesmo estilo e as mesmas cores.
+- Atualize o fluxograma existente em vez de criar um novo; só crie outro se o responsável pedir.
+- Se não tiver acesso ao Miro, avise o responsável e entregue o fluxograma em Mermaid no plano para ser aplicado lá.
+
 ## Regras
 - Prefira a solução mais simples que atenda aos critérios de aceite.
 - Não altere código de produção; seu produto é o plano.

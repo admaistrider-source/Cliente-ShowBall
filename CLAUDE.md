@@ -28,3 +28,4 @@ Para bugs: **qa-testes** reproduz, **backend** ou **frontend** corrige, **reviso
 - Código e nomes técnicos em inglês; textos da interface, commits e documentação em português.
 - Uma branch por tarefa e PR pequeno com descrição "Antes / Depois / Como testar".
 - Decisões de arquitetura em `docs/decisoes/`.
+- Todo fluxograma desenvolvido deve ser refletido no fluxograma já existente no Miro: https://miro.com/app/board/uXjVHjXjF_0=/?moveToWidget=3458764685537301300
