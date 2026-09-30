@@ -1,5 +1,5 @@
 ---
-name: revisor
+name: revisor-codigo
 description: Use antes de abrir ou aprovar um PR no ShowBall. Revisa o diff procurando bugs, falhas de segurança, desvios das convenções e código desnecessário. Não edita arquivos.
 tools: Read, Grep, Glob, Bash
 model: opus
